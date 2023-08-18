@@ -40,7 +40,7 @@ I also work on inclusion and accessibility in the R and open science communities
 
 ### UseR! 2021. Organizing Committee
 
-I worked with a great team to organize [UseR! 2021](https://user2021.r-project.org/participation/accessibility/#:~:text=Accessibility%20at%20useR!,ways%20we%20work%20and%20meet.)
+I worked with a great team to organize [UseR! 2021](https://user2021.r-project.org/participation/accessibility/#:~:text=Accessibility%20at%20useR!,ways%20we%20work%20and%20meet.).
 The website is a great resource for those hoping to plan inclusive conferences. Here are some related resources;  
 
 * [We wrote a paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010164) sharing what we learned from each other and our experience.  
@@ -76,12 +76,20 @@ It's especially important for scientists who need access to information provided
 #### Alt Text in Paleontology
 
 I gave a workshop on writing alt text to [Time Scavengers](https://timescavengers.blog/about-us/project-overview-2/) science communication students.
-The video is no longer available but the [Time Scavengers Workshop Slides](https://lizharedogs.github.io/TimeScavengersWorkshopAltText/#8)
-We talk about a wide variety of scientific images including photos and diagrams in addition to my susal focus on data visualizations.
+The video is no longer available but the [Time Scavengers Workshop Slides are](https://lizharedogs.github.io/TimeScavengersWorkshopAltText/#8).
+We talked about a wide variety of scientific images including photos and diagrams in addition to my usual focus on data visualizations.
 
 #### Alt Text in Data Visualization
 
 The [Urban Institute](https://www.urban.org) produced a book about accessibility practices for data visualization, [Do No Harm: Centering Accessibility in Data Visualization](https://www.urban.org). I wrote Chapter 4, "Writing Alt Text to Communicate the Meaning in Data Visualizations," introducing two models to think about how to write complete alt texts for graphs.
 
 I gave a talk to [R-Ladies NYC](https://www.rladiesnyc.org) on "Writing Meaningful Alt Text for Data Visualizations in R." [You can watch the Alt Text in R video](https://www.youtube.com/watch?v=dXV5bx1WQTM) or read the [Alt Text in R Slides](https://lizharedogs.github.io/RLadiesNYAltText/#1).
-The topics include writing complete alt texts and how to include them in R Markdown outputs like HTML reports and Xaringan slides. 
+The topics include writing complete alt texts and how to include them in R Markdown outputs like HTML reports and Xaringan slides.   
+
+[Silvia Canelón](https://github.com/spcanelon) and I investigated the use of alt text in the #TidyTuesday R data visualization learning group at [CSVconf](https://csvconf.com) in 2021.
+
+* [Video of the #TidyTuesday talk](https://www.youtube.com/watch?v=DxLkv2iRdf8)  
+
+* [Slides for the #TidyTuesday talk](https://spcanelon.github.io/csvConf2021/slides/indexLH.html#3)
+
+* [Repository for the #TidyTuesday work](https://github.com/spcanelon/csvConf2021)
