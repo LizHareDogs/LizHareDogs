@@ -2,21 +2,21 @@
 ## Dog Genetics LLC
 
 I have two main areas of interest:
-* working dog genetic, genomic, behavior and health research and breeding p program analysis
+* working dog genetic, genomic, behavior and health research and breeding program analysis
 * inclusion and accessibility in the R and open science communities
 
 You can learn more about my dog-related work, including a publication list, on [my CV](https://lizharedogs.github.io/hare_cv/).
 
 *Accessibility note: I provide links to both videos and slides for most talks.
 It's important to provide access to slides in advance because screen readers can't provide access to video content like screen sharing on Zoom or YouTube videos.
-If you find accessibility problems with anything here, please let me know at <lizhare@gmail.com>.
+If you find accessibility problems with anything here, please let me know at <lizhare@gmail.com>.*
 
 
 ## Working Dogs
 
 ### [ManyDogs Project](https://lizharedogs.github.io/hare_cv/), Assistant Director for Data Management and Open Science
 
-ManyDogs is a big team science project aimed at enhancing out understanding of dog cognition by conducting standardized experiments at many sites using open science principles.
+ManyDogs is a big team science project aimed at enhancing our understanding of dog cognition by conducting standardized experiments at many sites using open science principles.
 The consortium will be able to address the problem of small sample sizes often found in this field.
 
 * [ManyDogs 1 repository](https://github.com/ManyDogsProject/manydogs1)  
@@ -38,7 +38,7 @@ If you are a member of the organization, you can see the video on the [IWDA webs
 
 I also work on inclusion and accessibility in the R and open science communities.
 
-### UseR! 2021 Organizing Committee
+### UseR! 2021. Organizing Committee
 
 I worked with a great team to organize [UseR! 2021](https://user2021.r-project.org/participation/accessibility/#:~:text=Accessibility%20at%20useR!,ways%20we%20work%20and%20meet.)
 The website is a great resource for those hoping to plan inclusive conferences. Here are some related resources;  
@@ -64,14 +64,8 @@ The website is a great resource for those hoping to plan inclusive conferences. 
 
 I provided an [accessibility evaluation report and suggestions for the future](https://github.com/rse-aunz/rse-aunz.github.io/blob/master/RSEAUNZAccessibility.Rmd) for the 2022 Unconference.
 
-I consulted with the Australia-New Zealand Research Software Engineering Unconference organizers in 2022 to evaluate the accessibility of the event and make suggestions for future events. 
+I consulted with the Australia-New Zealand Research Software Engineering Unconference organizers in 2022 to evaluate the accessibility of the event and make suggestions for future events.  
 
-I have spoken and written about how to write alt text for data visualization.
-The Urban Institute's [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization) talks about many kinds of accessibility practices. Chapter 4 focuses on writing effective alt text descriptions.
-
-I gave a talk with Andrea Sanchez-Tapia [@
-at the November 2022 Turing Way Book Dash on accessibility in open science.
-([Slides](https://lizharedogs.github.io/ttwBookDashNov22accessibility/#1), [Vodeo](https://www.youtube.com/watch?v=ARMs7C_wE04)
 
 ### Alt Text
 
