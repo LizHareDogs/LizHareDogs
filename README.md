@@ -53,11 +53,13 @@ The website is a great resource for those hoping to plan inclusive conferences. 
 
 [Andrea Sánchez-Tapia](https://github.com/AndreaSanchezTapia) and I gave a talk on Accessibility and Data Science for the November 2022 Book Dash.  
 
+* [Our Turing Way Accessibility Video](https://www.youtube.com/watch?v=ARMs7C_wE04)
+
 * [My Turing Way Accessibility slides](https://lizharedogs.github.io/ttwBookDashNov22accessibility/#1)
 
-* [Andrea's Turing Way Accessibility slides](
+* [Andrea's Turing Way Accessibility slides](https://andreasancheztapia.github.io/BookDash2022/#1)
 
-* [Our Turing Way Accessibility Video](https://www.youtube.com/watch?v=ARMs7C_wE04)
+
 
 
 ### [RSE-AU/NZ](https://github.com/rse-aunz), Accessibility Consulting
