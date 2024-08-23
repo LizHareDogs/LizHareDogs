@@ -55,7 +55,7 @@ I organized the Fireside Chat "Making Things Accessible in Data Science" with [T
 [Lynn Kirabo](https://github.com/therisingpage), 
 [Anne Lee Steele](https://github.com/aleesteele),
 [malvika Sharan](https://github.com/malvikasharan), 
-and [Sophia Batchelor](https://github.com/BrainonSilicon)
+and [Sophia Batchelor](https://github.com/BrainonSilicon).
 We asked each other about our positionality in relation to accessibility, barriers to participation in communities like The Turing Way, improvements we’ve worked on or witnessed, and things we wished other community members knew about accessibility. 
 Thanks to the [Society for Research Software Engineering](https://society-rse.org) for supporting the organization of this event.
 
@@ -75,7 +75,7 @@ Thanks to the [Society for Research Software Engineering](https://society-rse.or
 
 This year, I have the privilege and fun of participating in the 
 [rOpenSci Champions](https://ropensci.org/champions/) cohort.
-As part of our outreach activities, I will be on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican C Gokcek, and Engin Yılmaz.
+As part of our outreach activities, I will be on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican Cagri Gokcek, and Engin Yılmaz.
 
 * [Blog post and registration information for "Screen Reader Accessible Tools and Resources for Learning and Working with R
 "](https://ropensci.org/events/rsr-learn-and-use/)
