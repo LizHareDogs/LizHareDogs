@@ -51,6 +51,17 @@ The website is a great resource for those hoping to plan inclusive conferences. 
 
 ### [The Turing Way](https://the-turing-way.netlify.app/index.html), Co-Lead, Accessibility Working Group and Book Dash Participant
 
+I organized the Fireside Chat "Making Things Accessible in Data Science" with [Tania Allard](https://github.com/trallard),
+[Lynn Kirabo](https://github.com/therisingpage), 
+[Anne Lee Steele](https://github.com/aleesteele),
+[malvika Sharan](https://github.com/malvikasharan), 
+and [Sophia Batchelor](https://github.com/BrainonSilicon)
+We asked each other about our positionality in relation to accessibility, barriers to participation in communities like The Turing Way, improvements we’ve worked on or witnessed, and things we wished other community members knew about accessibility. 
+Thanks to the [Society for Research Software Engineering](https://society-rse.org) for supporting the organization of this event.
+
+* [How to Make Things More Accessible in Data Science](https://www.youtube.com/watch?v=Ac9czT3Tr8A&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=1) on YouTube
+
+
 [Andrea Sánchez-Tapia](https://github.com/AndreaSanchezTapia) and I gave a talk on Accessibility and Data Science for the November 2022 Book Dash.  
 
 * [Our Turing Way Accessibility Video](https://www.youtube.com/watch?v=ARMs7C_wE04)
@@ -60,7 +71,14 @@ The website is a great resource for those hoping to plan inclusive conferences. 
 * [Andrea's Turing Way Accessibility slides](https://andreasancheztapia.github.io/BookDash2022/#1)
 
 
+### [rOpenSci](https://github.com/Ropensci)
 
+This year, I have the privilege and fun of participating in the 
+[rOpenSci Champions](https://ropensci.org/champions/) cohort.
+As part of our outreach activities, I will be on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican C Gokcek, and Engin Yılmaz.
+
+* [Blog post and registration information for "Screen Reader Accessible Tools and Resources for Learning and Working with R
+"](https://ropensci.org/events/rsr-learn-and-use/)
 
 ### [RSE-AU/NZ](https://github.com/rse-aunz), Accessibility Consulting
 
