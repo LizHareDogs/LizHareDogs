@@ -75,10 +75,13 @@ Thanks to the [Society for Research Software Engineering](https://society-rse.or
 
 This year, I have the privilege and fun of participating in the 
 [rOpenSci Champions](https://ropensci.org/champions/) cohort.
-As part of our outreach activities, I will be on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican Cagri Gokcek, and Engin Yılmaz.
+As part of our outreach activities, I wasbe on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican Cagri Gokcek, and Engin Yılmaz.
 
-* [Blog post and registration information for "Screen Reader Accessible Tools and Resources for Learning and Working with R
-"](https://ropensci.org/events/rsr-learn-and-use/)
+* [Screen Reader Accessible Tools and Resources for Learning and Working with R](https://vimeo.com/1008631708)
+video in English and Turkish with English subtitles.
+* There's a [Tech Note on the rOpenSci blog](https://ropensci.org/blog/2024/09/05/screen-readers-tools/)
+with details and links about how to set up an accessible environment, since *RStudio is not screen reader accessible*.
+
 
 ### [RSE-AU/NZ](https://github.com/rse-aunz), Accessibility Consulting
 
