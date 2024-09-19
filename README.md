@@ -75,7 +75,7 @@ Thanks to the [Society for Research Software Engineering](https://society-rse.or
 
 This year, I have the privilege and fun of participating in the 
 [rOpenSci Champions](https://ropensci.org/champions/) cohort.
-As part of our outreach activities, I wasbe on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican Cagri Gokcek, and Engin Yılmaz.
+As part of our outreach activities, I was on a panel "Screen Reader Accessible Tools and Resources for Learning and Working with R" with rOpenSci colleagues [Yanina Bellini Saibene](https://github.com/yabellini), Alican Cagri Gokcek, and Engin Yılmaz.
 
 * [Screen Reader Accessible Tools and Resources for Learning and Working with R](https://vimeo.com/1008631708)
 video in English and Turkish with English subtitles.
