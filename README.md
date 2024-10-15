@@ -60,7 +60,7 @@ We asked each other about our positionality in relation to accessibility, barrie
 Thanks to the [Society for Research Software Engineering](https://society-rse.org) for supporting the organization of this event.
 
 * [How to Make Things More Accessible in Data Science](https://www.youtube.com/watch?v=Ac9czT3Tr8A&list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2&index=1) on YouTube
-
+* [RSE Society blog post on the Fireside Chat](https://society-rse.org/the-turing-way-fireside-chat-how-to-make-things-more-accessible-in-data-)
 
 [Andrea Sánchez-Tapia](https://github.com/AndreaSanchezTapia) and I gave a talk on Accessibility and Data Science for the November 2022 Book Dash.  
 
@@ -81,6 +81,16 @@ As part of our outreach activities, I was on a panel "Screen Reader Accessible T
 video in English and Turkish with English subtitles.
 * There's a [Tech Note on the rOpenSci blog](https://ropensci.org/blog/2024/09/05/screen-readers-tools/)
 with details and links about how to set up an accessible environment, since *RStudio is not screen reader accessible*.
+
+### Big Team Science Conference 2024
+
+I served as accessibility consultant for the [2024 Big Team Science Conference](https://bigteamscienceconference.github.io) as well as giving a talk. The video is available to people who registered for the conference and the slides are available on GitHub.
+
+* [I'd Rather Be Talking About Science: Advocating for Accessibility and Inclusion in Open Science Communities](https://lizharedogs.github.io/btsCon2024/#6) slides
+
+
+
+
 
 
 ### [RSE-AU/NZ](https://github.com/rse-aunz), Accessibility Consulting
